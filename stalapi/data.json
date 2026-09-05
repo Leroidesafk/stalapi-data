@@ -43,24 +43,8 @@
             "name": "Test6 Cape",
             "rarity": "legendary"
         },
-        "t1": {
-            "name": "T1 Cape",
-            "rarity": "legendary"
-        },
-        "t2": {
-            "name": "T2 Cape",
-            "rarity": "legendary"
-        },
-        "t3": {
-            "name": "T3 Cape",
-            "rarity": "legendary"
-        },
-        "t4": {
-            "name": "T4 Cape",
-            "rarity": "legendary"
-        },
-        "t5": {
-            "name": "T5 Cape",
+        "temp": {
+            "name": "Temporary Cape",
             "rarity": "legendary"
         }
     }
