@@ -1,7 +1,7 @@
 { "players": {
         "cc4b7d74-bbe2-4310-9106-0e52d292c758": [
-            "test1",
             "stal",
+            "test1",
             "test2",
             "test3",
             "test4",
@@ -36,6 +36,26 @@
         },
         "test6": {
             "name": "Test6 Cape",
+            "rarity": "legendary"
+        },
+        "t1": {
+            "name": "T1 Cape",
+            "rarity": "legendary"
+        },
+        "t2": {
+            "name": "T2 Cape",
+            "rarity": "legendary"
+        },
+        "t3": {
+            "name": "T3 Cape",
+            "rarity": "legendary"
+        },
+        "t4": {
+            "name": "T4 Cape",
+            "rarity": "legendary"
+        },
+        "t5": {
+            "name": "T5 Cape",
             "rarity": "legendary"
         }
     }
