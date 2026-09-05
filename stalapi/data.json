@@ -17,7 +17,7 @@
     "capes": {
         "stal": {
             "name": "Stal Cape",
-            "rarity": "legendary"
+            "rarity": "mythic"
         },
         "test1": {
             "name": "Test1 Cape",
@@ -25,19 +25,19 @@
         },
         "test2": {
             "name": "Test2 Cape",
-            "rarity": "legendary"
+            "rarity": "epic"
         },
         "test3": {
             "name": "Test3 Cape",
-            "rarity": "legendary"
+            "rarity": "rare"
         },
         "test4": {
             "name": "Test4 Cape",
-            "rarity": "legendary"
+            "rarity": "uncommon"
         },
         "test5": {
             "name": "Test5 Cape",
-            "rarity": "legendary"
+            "rarity": "common"
         },
         "test6": {
             "name": "Test6 Cape",
