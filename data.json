@@ -1,13 +1,25 @@
 { 
     "global_name": "Default",
     "players": {
+        "b582223b-ff29-4277-ab55-0d3e9586163c": [
+            "unusual_squad"
+        ],
         "cc4b7d74-bbe2-4310-9106-0e52d292c758": [
-            "ngngngn"
+            "unusual_squad"
+        ],
+        "63781be2-b6b3-4b25-8af4-3d963f6bc164": [
+            "unusual_squad"
+        ],
+        "76461bef-2c1d-4440-b8d0-1f992398c1a0": [
+            "unusual_squad"
+        ],
+        "8dd9ad20-80d5-45b3-a6e4-56af90d891c9": [
+            "unusual_squad"
         ]
     },
     "capes": {
-        "stal": {
-            "ngngngn": "Qui sait ?",
+        "unusual_squad": {
+            "name": "UnusualSquad Cape",
             "rarity": "mythic"
         }
     }

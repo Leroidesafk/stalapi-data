@@ -1,47 +1,12 @@
 { "players": {
         "cc4b7d74-bbe2-4310-9106-0e52d292c758": [
-            "stal",
-            "test1",
-            "test2",
-            "test3",
-            "test4",
-            "test5",
-            "test6",
-            "temp"
+            "stal"
         ]
     },
     "capes": {
         "stal": {
             "name": "Stal Cape",
             "rarity": "mythic"
-        },
-        "test1": {
-            "name": "Test1 Cape",
-            "rarity": "legendary"
-        },
-        "test2": {
-            "name": "Test2 Cape",
-            "rarity": "epic"
-        },
-        "test3": {
-            "name": "Test3 Cape",
-            "rarity": "rare"
-        },
-        "test4": {
-            "name": "Test4 Cape",
-            "rarity": "uncommon"
-        },
-        "test5": {
-            "name": "Test5 Cape",
-            "rarity": "common"
-        },
-        "test6": {
-            "name": "Test6 Cape",
-            "rarity": "legendary"
-        },
-        "temp": {
-            "name": "Temporary Cape",
-            "rarity": "legendary"
         }
     }
 }
