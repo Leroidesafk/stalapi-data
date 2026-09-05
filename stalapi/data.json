@@ -7,6 +7,30 @@
         "stal": {
             "name": "Stal Cape",
             "rarity": "legendary"
+        },
+        "test1": {
+            "name": "Test1 Cape",
+            "rarity": "legendary"
+        },
+        "test2": {
+            "name": "Test2 Cape",
+            "rarity": "legendary"
+        },
+        "test3": {
+            "name": "Test3 Cape",
+            "rarity": "legendary"
+        },
+        "test4": {
+            "name": "Test4 Cape",
+            "rarity": "legendary"
+        },
+        "test5": {
+            "name": "Test5 Cape",
+            "rarity": "legendary"
+        },
+        "test6": {
+            "name": "Test6 Cape",
+            "rarity": "legendary"
         }
     }
 }
