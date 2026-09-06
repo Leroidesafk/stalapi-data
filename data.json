@@ -1,9 +1,6 @@
 { 
     "global_name": "Default",
     "players": {
-        "2f1d1317-9549-4921-9c6e-b28235ad1c3c": [
-            "unusual_squad"
-        ],
         "63781be2-b6b3-4b25-8af4-3d963f6bc164": [
             "unusual_squad"
         ],
@@ -14,9 +11,6 @@
             "unusual_squad"
         ],
         "b582223b-ff29-4277-ab55-0d3e9586163c": [
-            "unusual_squad"
-        ],
-        "bffb1b32-55e3-4c03-a006-e602f06cffb3": [
             "unusual_squad"
         ],
         "cc4b7d74-bbe2-4310-9106-0e52d292c758": [

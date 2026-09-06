@@ -1,15 +1,21 @@
 { 
     "players": {
-        "b582223b-ff29-4277-ab55-0d3e9586163c": [
-            "beta-tester"
-        ],
-        "cc4b7d74-bbe2-4310-9106-0e52d292c758": [
+        "2f1d1317-9549-4921-9c6e-b28235ad1c3c": [
             "beta-tester"
         ],
         "35fa17d1-1349-4c87-a079-c3f7e5530e9a": [
             "beta-tester"
         ],
         "8c0fd7d2-bed5-411f-91b6-eed5558f55cc": [
+            "beta-tester"
+        ],
+        "b582223b-ff29-4277-ab55-0d3e9586163c": [
+            "beta-tester"
+        ],
+        "bffb1b32-55e3-4c03-a006-e602f06cffb3": [
+            "beta-tester"
+        ],
+        "cc4b7d74-bbe2-4310-9106-0e52d292c758": [
             "beta-tester"
         ]
     },
