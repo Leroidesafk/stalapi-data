@@ -7,11 +7,15 @@
         "76461bef-2c1d-4440-b8d0-1f992398c1a0": [
             "unusual_squad"
         ],
+        "85d6b199-4c5f-4905-8544-7f72dc448074 ": [
+            "reviewer"
+        ],
         "8dd9ad20-80d5-45b3-a6e4-56af90d891c9": [
             "unusual_squad"
         ],
         "b582223b-ff29-4277-ab55-0d3e9586163c": [
-            "unusual_squad"
+            "unusual_squad",
+            "reviewer"
         ],
         "cc4b7d74-bbe2-4310-9106-0e52d292c758": [
             "unusual_squad"
@@ -21,6 +25,10 @@
         "unusual_squad": {
             "name": "UnusualSquad Cape",
             "rarity": "mythic"
+        },
+        "reviewer": {
+            "name": "Reviewer Cape",
+            "rarity": "Legendary"
         }
     }
 }
