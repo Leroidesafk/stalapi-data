@@ -7,9 +7,6 @@
         "76461bef-2c1d-4440-b8d0-1f992398c1a0": [
             "unusual_squad"
         ],
-        "85d6b199-4c5f-4905-8544-7f72dc448074 ": [
-            "reviewer"
-        ],
         "8dd9ad20-80d5-45b3-a6e4-56af90d891c9": [
             "unusual_squad"
         ],
@@ -18,6 +15,15 @@
         ],
         "cc4b7d74-bbe2-4310-9106-0e52d292c758": [
             "unusual_squad",
+            "reviewer"
+        ],
+        
+
+
+                "3c863f35-000b-4fb4-8a99-6cf0808d9ecc": [
+            "reviewer"
+        ],
+                "85d6b199-4c5f-4905-8544-7f72dc448074": [
             "reviewer"
         ]
     },
