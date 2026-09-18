@@ -15,7 +15,8 @@
         ],
         "cc4b7d74-bbe2-4310-9106-0e52d292c758": [
             "unusual_squad",
-            "reviewer"
+            "reviewer",
+            "trslt-temp"
         ],
         
 
@@ -28,6 +29,10 @@
         ]
     },
     "capes": {
+        "trslt-temp": {
+            "name": "Translator",
+            "rarity":"mythic"
+        },
         "unusual_squad": {
             "name": "UnusualSquad Cape",
             "rarity": "mythic"
