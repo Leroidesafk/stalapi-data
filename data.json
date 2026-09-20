@@ -14,9 +14,10 @@
             "unusual_squad"
         ],
         "cc4b7d74-bbe2-4310-9106-0e52d292c758": [
+            "trslt-temp",
+            "rlms-temp",
             "unusual_squad",
-            "reviewer",
-            "trslt-temp"
+            "reviewer"
         ],
         
 
@@ -31,7 +32,11 @@
     "capes": {
         "trslt-temp": {
             "name": "Translator",
-            "rarity":"mythic"
+            "rarity":"common"
+        },
+        "rlms-temp": {
+            "name": "MapMaker",
+            "rarity":"common"
         },
         "unusual_squad": {
             "name": "UnusualSquad Cape",
